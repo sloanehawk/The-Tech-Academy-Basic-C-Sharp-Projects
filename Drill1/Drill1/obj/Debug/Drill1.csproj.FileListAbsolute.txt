@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\C# & .NET\Drill1\Drill1\bin\Debug\Drill1.exe.config
+C:\Users\Student\Desktop\C# & .NET\Drill1\Drill1\bin\Debug\Drill1.exe
+C:\Users\Student\Desktop\C# & .NET\Drill1\Drill1\bin\Debug\Drill1.pdb
+C:\Users\Student\Desktop\C# & .NET\Drill1\Drill1\obj\Debug\Drill1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\C# & .NET\Drill1\Drill1\obj\Debug\Drill1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C# & .NET\Drill1\Drill1\obj\Debug\Drill1.exe
+C:\Users\Student\Desktop\C# & .NET\Drill1\Drill1\obj\Debug\Drill1.pdb
