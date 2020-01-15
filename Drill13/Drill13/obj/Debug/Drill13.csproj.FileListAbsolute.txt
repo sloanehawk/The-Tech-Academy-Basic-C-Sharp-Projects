@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Drill13\Drill13\bin\Debug\Drill13.exe.config
+C:\Users\Student\source\repos\Drill13\Drill13\bin\Debug\Drill13.exe
+C:\Users\Student\source\repos\Drill13\Drill13\bin\Debug\Drill13.pdb
+C:\Users\Student\source\repos\Drill13\Drill13\obj\Debug\Drill13.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Drill13\Drill13\obj\Debug\Drill13.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Drill13\Drill13\obj\Debug\Drill13.exe
+C:\Users\Student\source\repos\Drill13\Drill13\obj\Debug\Drill13.pdb
