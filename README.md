@@ -1,1 +1,2 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+# The Tech Academy Basic C# Projects
+Basic C# assignments for The Tech Academy
